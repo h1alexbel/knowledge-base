@@ -8,7 +8,7 @@ My Engineering Knowledge Base
 
 There are slides and pages for my Software Developer's Knowledge Base.
 
-You need to have
+You **need** to have
 [LaTeX](https://en.wikipedia.org/wiki/LaTeX),
 [`aspell`](http://aspell.net/),
 [`texsc`](https://rubygems.org/gems/texsc),
