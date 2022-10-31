@@ -2,7 +2,6 @@
 My Engineering Knowledge Base
 
 [![We recommend IntelliJ IDEA](https://www.elegantobjects.org/intellij-idea.svg)](https://www.jetbrains.com/idea/)
-[![latexmk](https://github.com/yegor256/ssd16/actions/workflows/latexmk.yml/badge.svg?branch=master)](https://github.com/yegor256/ssd16/actions/workflows/latexmk.yml)
 ![Lines of code](https://img.shields.io/tokei/lines/github/h1alexbel/knowledge-base)
 [![Hits-of-Code](https://hitsofcode.com/github/yegor256/rultor)](https://hitsofcode.com/view/github/h1alexbel/knowledge-base)
 
