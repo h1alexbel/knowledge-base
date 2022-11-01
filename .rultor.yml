@@ -6,8 +6,6 @@ release:
   script: |-
     bundle exec rake
     rm -rf *.gem
-    sed -i "s/0\.0\.0/${tag}/g" lib/knowledge-base/version.rb
-    git add lib/knowledge-base/version.rb
     git commit -m "version set to ${tag}"
 merge:
   script: |-
