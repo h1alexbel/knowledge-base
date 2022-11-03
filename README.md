@@ -1,6 +1,7 @@
 # knowledge-base
 My Engineering Knowledge Base
 
+[![latexmk](https://github.com/h1alexbel/knowledge-base/actions/workflows/latexmk.yml/badge.svg)](https://github.com/h1alexbel/knowledge-base/actions/workflows/latexmk.yml)
 [![We recommend IntelliJ IDEA](https://www.elegantobjects.org/intellij-idea.svg)](https://www.jetbrains.com/idea/)
 ![Lines of code](https://img.shields.io/tokei/lines/github/h1alexbel/knowledge-base)
 [![Hits-of-Code](https://hitsofcode.com/github/yegor256/rultor)](https://hitsofcode.com/view/github/h1alexbel/knowledge-base)
